@@ -1,0 +1,65 @@
+/* Statistics Section */
+.statistics-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .stat {
+    text-align: center;
+  }
+  
+  .stat h2 {
+    color: #5a2e8a;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .stat p {
+    color: #555;
+    font-size: 1rem;
+  }
+  
+  /* Modernize Section */
+  .modernize-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+  }
+  
+  .modernize-text {
+    max-width: 50%;
+  }
+  
+  .modernize-text h1 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .modernize-text p {
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  
+  .explore-btn {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .modernize-image img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 5px;
+  }
+  

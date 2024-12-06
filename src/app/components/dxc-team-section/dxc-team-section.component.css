@@ -1,0 +1,45 @@
+.team-section {
+    background-color: #f9f9f9;
+    padding: 2rem;
+  }
+  
+  .team-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+  
+  .team-image img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 5px;
+  }
+  
+  .team-text {
+    max-width: 50%;
+  }
+  
+  .team-text h1 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .team-text p {
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  
+  .join-team-btn {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  

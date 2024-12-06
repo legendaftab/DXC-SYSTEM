@@ -1,0 +1,22 @@
+.carousel-caption {
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+    right: 10%;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    text-align: left;
+  }
+  
+  .carousel img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .btn-primary {
+    background-color: #0078d4;
+    border: none;
+  }
+  
